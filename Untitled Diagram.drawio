@@ -1,1 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T07:46:33.488Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" version="14.2.7" etag="KCF3uJW06TlzvoDjMymI" type="github"><diagram id="xTj1h4oO25dQgiePU3qU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-29T08:11:56.033Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="cRFB_pyKm34zieD3_XH7" version="14.2.7" type="github">
+  <diagram id="xTj1h4oO25dQgiePU3qU" name="第 1 页">
+    <mxGraphModel dx="1426" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-11" value="" style="endArrow=none;html=1;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="260" as="sourcePoint" />
+            <mxPoint x="265" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189.5" y="280" as="sourcePoint" />
+            <mxPoint x="189.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-7" value="栈起始处" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-9" value="" style="endArrow=none;html=1;sketch=0;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="350" as="sourcePoint" />
+            <mxPoint x="250" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-10" value="进程内核栈" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-12" value="" style="endArrow=none;html=1;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="350" as="sourcePoint" />
+            <mxPoint x="265" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-13" value="最高的内存地址" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-14" value="栈指针" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-15" value="" style="endArrow=none;html=1;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="460" as="sourcePoint" />
+            <mxPoint x="265" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-16" value="最低的内存地址" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-17" value="" style="endArrow=none;html=1;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="430" as="sourcePoint" />
+            <mxPoint x="250" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-18" value="struct thread_info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="450" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-19" value="current_thread_info()&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-21" value="" style="endArrow=none;html=1;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="116" y="461.5" as="sourcePoint" />
+            <mxPoint x="126" y="461.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="510" y="180" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-24" value="struct task_struct&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="240" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-26" value="&lt;span style=&quot;text-align: left&quot;&gt;unsigned long state;&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;int prio;&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;unsigned long policy;&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;struct task_struct *parent;&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;struct list_head tasks;&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;pid_t pid;&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;...&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=right;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="414" y="270" width="110" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-27" value="" style="endArrow=none;html=1;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="262" as="sourcePoint" />
+            <mxPoint x="650" y="262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-31" value="" style="endArrow=classic;html=1;shadow=0;strokeWidth=1;curved=1;edgeStyle=orthogonalEdgeStyle;entryX=0.55;entryY=0.864;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1_yaDXRiqq0Rp-6NFPXQ-18" target="1_yaDXRiqq0Rp-6NFPXQ-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="490" as="sourcePoint" />
+            <mxPoint x="310" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="520" />
+              <mxPoint x="609" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_yaDXRiqq0Rp-6NFPXQ-32" value="thread_info中有一个指向进程描述符的指针" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="530" width="270" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
